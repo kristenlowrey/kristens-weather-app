@@ -1,4 +1,15 @@
 h1 {
   text-align: center;
   color: blueviolet;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 60px;
+}
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+form {
+  text-align: center;
 }
